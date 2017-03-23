@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/8f242232_wicket-xhtml1.4-strict.dtd" />
+    <resource url="http://www.oracle.com/webfolder/technetwork/jsc/xml/ns/persistence/orm_2_1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/3ca22636_orm_2_1.xsd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/ec45f7b8_xhtml-lat1.ent" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/88bee14d_xhtml-special.ent" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/3f2ce99e_xhtml-symbol.ent" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_PROXY_PAC" value="true" />
+    <option name="PROXY_HOST" value="localhost" />
+    <option name="PROXY_PORT" value="4014" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="file://$USER_HOME$/dev/senacor/pbs/conf/postbank-proxy.pac " />
+  </component>
+</application>

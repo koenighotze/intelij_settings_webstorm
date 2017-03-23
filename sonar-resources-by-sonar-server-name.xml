@@ -1,0 +1,576 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="BV Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1475750164000" />
+                <option name="date" value="1476871686000" />
+                <option name="id" value="1" />
+                <option name="key" value="com.gimb.service:bv-account-service" />
+                <option name="longName" value="bv-account-service" />
+                <option name="name" value="bv-account-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.71.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476188809000" />
+                <option name="date" value="1476718285000" />
+                <option name="id" value="1919" />
+                <option name="key" value="com.gimb.service:bv-accountuser-service" />
+                <option name="longName" value="bv-accountuser-service" />
+                <option name="name" value="bv-accountuser-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.32.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476258968000" />
+                <option name="date" value="1476340503000" />
+                <option name="id" value="8108" />
+                <option name="key" value="com.gimb.service:bv-admin-service" />
+                <option name="longName" value="bv-admin-service" />
+                <option name="name" value="bv-admin-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.13.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476189211000" />
+                <option name="date" value="1476878620000" />
+                <option name="id" value="2099" />
+                <option name="key" value="com.gimb.service:bv-analytics-service" />
+                <option name="longName" value="bv-analytics-service" />
+                <option name="name" value="bv-analytics-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.36.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476259222000" />
+                <option name="date" value="1476719043000" />
+                <option name="id" value="8113" />
+                <option name="key" value="com.gimb.service:bv-applicantuser-service" />
+                <option name="longName" value="bv-applicantuser-service" />
+                <option name="name" value="bv-applicantuser-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.7.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476262521000" />
+                <option name="date" value="1476366446000" />
+                <option name="id" value="8216" />
+                <option name="key" value="com.gimb.service:bv-audit-service" />
+                <option name="longName" value="bv-audit-service" />
+                <option name="name" value="bv-audit-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.3.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476201756000" />
+                <option name="date" value="1476812279000" />
+                <option name="id" value="2294" />
+                <option name="key" value="com.gimb.service:bv-bank-service" />
+                <option name="longName" value="bv-bank-service" />
+                <option name="name" value="bv-bank-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.31.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476202250000" />
+                <option name="date" value="1476719047000" />
+                <option name="id" value="2647" />
+                <option name="key" value="com.gimb.service:bv-bankintegration-service" />
+                <option name="longName" value="bv-bankintegration-service" />
+                <option name="name" value="bv-bankintegration-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.74.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476184606000" />
+                <option name="date" value="1476777251000" />
+                <option name="id" value="722" />
+                <option name="key" value="com.gimb.service:bv-checkout-service" />
+                <option name="longName" value="bv-checkout-service" />
+                <option name="name" value="bv-checkout-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.90.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476182766000" />
+                <option name="date" value="1476619261000" />
+                <option name="id" value="628" />
+                <option name="key" value="com.gimb.service:bv-credit-service" />
+                <option name="longName" value="bv-credit-service" />
+                <option name="name" value="bv-credit-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476721469000" />
+                <option name="date" value="1476885927000" />
+                <option name="id" value="10854" />
+                <option name="key" value="com.gimb.common:bv-eventsourcing" />
+                <option name="longName" value="bv-eventsourcing" />
+                <option name="name" value="bv-eventsourcing" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="9.4.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433244000" />
+                <option name="date" value="1476717260000" />
+                <option name="id" value="9547" />
+                <option name="key" value="de.paydirekt.common:bv-eventsourcing" />
+                <option name="longName" value="bv-eventsourcing" />
+                <option name="name" value="bv-eventsourcing" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="9.4.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476257029000" />
+                <option name="date" value="1476720126000" />
+                <option name="id" value="7633" />
+                <option name="key" value="com.gimb.service:bv-feesettlement-service" />
+                <option name="longName" value="bv-feesettlement-service" />
+                <option name="name" value="bv-feesettlement-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.11.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476203955000" />
+                <option name="date" value="1476339816000" />
+                <option name="id" value="3241" />
+                <option name="key" value="com.gimb.service:bv-fraud-service" />
+                <option name="longName" value="bv-fraud-service" />
+                <option name="name" value="bv-fraud-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.23.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476204464000" />
+                <option name="date" value="1476717923000" />
+                <option name="id" value="3326" />
+                <option name="key" value="com.gimb.service:bv-fraudadvice-service" />
+                <option name="longName" value="bv-fraudadvice-service" />
+                <option name="name" value="bv-fraudadvice-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.29.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476256678000" />
+                <option name="date" value="1476341020000" />
+                <option name="id" value="7389" />
+                <option name="key" value="com.gimb.service:bv-friends-service" />
+                <option name="longName" value="bv-friends-service" />
+                <option name="name" value="bv-friends-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476262688000" />
+                <option name="date" value="1476340630000" />
+                <option name="id" value="8288" />
+                <option name="key" value="com.gimb.service:bv-hsm-service" />
+                <option name="longName" value="bv-hsm-service" />
+                <option name="name" value="bv-hsm-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.19.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476252839000" />
+                <option name="date" value="1476882733000" />
+                <option name="id" value="3549" />
+                <option name="key" value="com.gimb.service:bv-intermediary-service" />
+                <option name="longName" value="bv-intermediary-service" />
+                <option name="name" value="bv-intermediary-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.29.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476253220000" />
+                <option name="date" value="1476886160000" />
+                <option name="id" value="3865" />
+                <option name="key" value="com.gimb.service:bv-intermediaryuser-service" />
+                <option name="longName" value="bv-intermediaryuser-service" />
+                <option name="name" value="bv-intermediaryuser-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.25.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476253523000" />
+                <option name="date" value="1476719026000" />
+                <option name="id" value="4093" />
+                <option name="key" value="com.gimb.service:bv-logo-service" />
+                <option name="longName" value="bv-logo-service" />
+                <option name="name" value="bv-logo-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.20.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476253777000" />
+                <option name="date" value="1476821332000" />
+                <option name="id" value="4158" />
+                <option name="key" value="com.gimb.service:bv-merchant-service" />
+                <option name="longName" value="bv-merchant-service" />
+                <option name="name" value="bv-merchant-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.38.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476253845000" />
+                <option name="date" value="1476340825000" />
+                <option name="id" value="4647" />
+                <option name="key" value="com.gimb.service:bv-merchantintegration-service" />
+                <option name="longName" value="bv-merchantintegration-service" />
+                <option name="name" value="bv-merchantintegration-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.20.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254492000" />
+                <option name="date" value="1476718725000" />
+                <option name="id" value="4735" />
+                <option name="key" value="com.gimb.service:bv-merchantuser-service" />
+                <option name="longName" value="bv-merchantuser-service" />
+                <option name="name" value="bv-merchantuser-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.30.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254530000" />
+                <option name="date" value="1476796724000" />
+                <option name="id" value="4949" />
+                <option name="key" value="com.gimb.service:bv-notification-service" />
+                <option name="longName" value="bv-notification-service" />
+                <option name="name" value="bv-notification-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.36.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476263178000" />
+                <option name="date" value="1476795597000" />
+                <option name="id" value="8318" />
+                <option name="key" value="com.gimb.service:bv-onboarding-service" />
+                <option name="longName" value="bv-onboarding-service" />
+                <option name="name" value="bv-onboarding-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.7.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476256727000" />
+                <option name="date" value="1476712099000" />
+                <option name="id" value="7428" />
+                <option name="key" value="com.gimb.service:bv-p2p-service" />
+                <option name="longName" value="bv-p2p-service" />
+                <option name="name" value="bv-p2p-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.11.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476187046000" />
+                <option name="date" value="1476876662000" />
+                <option name="id" value="1503" />
+                <option name="key" value="com.gimb.service:bv-payment-service" />
+                <option name="longName" value="bv-payment-service" />
+                <option name="name" value="bv-payment-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.37.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254875000" />
+                <option name="date" value="1476719014000" />
+                <option name="id" value="5129" />
+                <option name="key" value="com.gimb.service:bv-reporting-service" />
+                <option name="longName" value="bv-reporting-service" />
+                <option name="name" value="bv-reporting-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.40.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254953000" />
+                <option name="date" value="1476254944000" />
+                <option name="id" value="5580" />
+                <option name="key" value="com.gimb.common:bv-rest" />
+                <option name="longName" value="bv-rest" />
+                <option name="name" value="bv-rest" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255115000" />
+                <option name="date" value="1476255108000" />
+                <option name="id" value="6049" />
+                <option name="key" value="com.gimb.common:bv-rest-test" />
+                <option name="longName" value="bv-rest-test" />
+                <option name="name" value="bv-rest-test" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.29.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255260000" />
+                <option name="date" value="1476340291000" />
+                <option name="id" value="6153" />
+                <option name="key" value="com.gimb.service:bv-scheduling-service" />
+                <option name="longName" value="bv-scheduling-service" />
+                <option name="name" value="bv-scheduling-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.31.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255493000" />
+                <option name="date" value="1476701698000" />
+                <option name="id" value="6218" />
+                <option name="key" value="com.gimb.service:bv-sealone-service" />
+                <option name="longName" value="bv-sealone-service" />
+                <option name="name" value="bv-sealone-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.21.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255593000" />
+                <option name="date" value="1476255582000" />
+                <option name="id" value="6347" />
+                <option name="key" value="com.gimb.common:bv-security" />
+                <option name="longName" value="bv-security" />
+                <option name="name" value="bv-security" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.23.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476256435000" />
+                <option name="date" value="1476718070000" />
+                <option name="id" value="7271" />
+                <option name="key" value="com.gimb.service:bv-smstan-service" />
+                <option name="longName" value="bv-smstan-service" />
+                <option name="name" value="bv-smstan-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.24.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476256275000" />
+                <option name="date" value="1476718017000" />
+                <option name="id" value="7032" />
+                <option name="key" value="com.gimb.service:bv-staff-service" />
+                <option name="longName" value="bv-staff-service" />
+                <option name="name" value="bv-staff-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.31.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476263413000" />
+                <option name="date" value="1476340774000" />
+                <option name="id" value="8449" />
+                <option name="key" value="com.gimb.service:bv-supporttoken-service" />
+                <option name="longName" value="bv-supporttoken-service" />
+                <option name="name" value="bv-supporttoken-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.16.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255601000" />
+                <option name="date" value="1476713613000" />
+                <option name="id" value="6563" />
+                <option name="key" value="com.gimb.service:bv-testbank-service" />
+                <option name="longName" value="bv-testbank-service" />
+                <option name="name" value="bv-testbank-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.37.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255898000" />
+                <option name="date" value="1476709770000" />
+                <option name="description" value="Everything related to supporting automated and manual testing, such as mocks, initializers, ... for deployment in non-production stages only." />
+                <option name="id" value="6780" />
+                <option name="key" value="com.gimb.service:bv-testsupport-service" />
+                <option name="longName" value="bv-testsupport-service" />
+                <option name="name" value="bv-testsupport-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.29.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255087000" />
+                <option name="date" value="1476813815000" />
+                <option name="id" value="5936" />
+                <option name="key" value="com.gimb.service:bv-ticket-service" />
+                <option name="longName" value="bv-ticket-service" />
+                <option name="name" value="bv-ticket-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.24.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476255072000" />
+                <option name="date" value="1476717999000" />
+                <option name="id" value="5725" />
+                <option name="key" value="com.gimb.service:bv-transaction-service" />
+                <option name="longName" value="bv-transaction-service" />
+                <option name="name" value="bv-transaction-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.42.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254755000" />
+                <option name="date" value="1476254748000" />
+                <option name="id" value="5045" />
+                <option name="key" value="com.gimb.common:bv-user" />
+                <option name="longName" value="bv-user" />
+                <option name="name" value="bv-user" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476254597000" />
+                <option name="date" value="1476339929000" />
+                <option name="id" value="5022" />
+                <option name="key" value="com.gimb.service:bv-voucher-service" />
+                <option name="longName" value="bv-voucher-service" />
+                <option name="name" value="bv-voucher-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476263608000" />
+                <option name="date" value="1476340743000" />
+                <option name="id" value="8479" />
+                <option name="key" value="com.gimb.service:bv-webhook-service" />
+                <option name="longName" value="bv-webhook-service" />
+                <option name="name" value="bv-webhook-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476263902000" />
+                <option name="date" value="1476340689000" />
+                <option name="id" value="8519" />
+                <option name="key" value="com.gimb.service:bv-webhooktest-service" />
+                <option name="longName" value="bv-webhooktest-service" />
+                <option name="name" value="bv-webhooktest-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476253376000" />
+                <option name="date" value="1476253374000" />
+                <option name="id" value="4054" />
+                <option name="key" value="de.paydirekt.common:common-logging" />
+                <option name="longName" value="common-logging" />
+                <option name="name" value="common-logging" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433318000" />
+                <option name="date" value="1476433316000" />
+                <option name="id" value="10276" />
+                <option name="key" value="de.paydirekt.common:filetransfer" />
+                <option name="longName" value="filetransfer" />
+                <option name="name" value="filetransfer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433367000" />
+                <option name="date" value="1476433364000" />
+                <option name="id" value="10291" />
+                <option name="key" value="de.paydirekt.common:logging" />
+                <option name="longName" value="logging" />
+                <option name="name" value="logging" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433411000" />
+                <option name="date" value="1476433409000" />
+                <option name="id" value="10330" />
+                <option name="key" value="de.paydirekt.common:payment-date-calculator" />
+                <option name="longName" value="payment-date-calculator" />
+                <option name="name" value="payment-date-calculator" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433526000" />
+                <option name="date" value="1476433519000" />
+                <option name="id" value="10339" />
+                <option name="key" value="de.paydirekt.common:rest" />
+                <option name="longName" value="rest" />
+                <option name="name" value="rest" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433587000" />
+                <option name="date" value="1476771867000" />
+                <option name="id" value="10487" />
+                <option name="key" value="de.paydirekt.common:security" />
+                <option name="longName" value="security" />
+                <option name="name" value="security" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1476433644000" />
+                <option name="date" value="1476433639000" />
+                <option name="id" value="10703" />
+                <option name="key" value="de.paydirekt.common:user" />
+                <option name="longName" value="user" />
+                <option name="name" value="user" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.0.1-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

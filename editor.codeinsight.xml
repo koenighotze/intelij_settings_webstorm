@@ -1,0 +1,52 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="aj.org" />
+    <EXCLUDED_PACKAGE NAME="com.apple" />
+    <EXCLUDED_PACKAGE NAME="com.bea" />
+    <EXCLUDED_PACKAGE NAME="com.ibm" />
+    <EXCLUDED_PACKAGE NAME="com.oracle" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="de.codecentric" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="java.security" />
+    <EXCLUDED_PACKAGE NAME="java.text" />
+    <EXCLUDED_PACKAGE NAME="javafx.application" />
+    <EXCLUDED_PACKAGE NAME="javafx.scene" />
+    <EXCLUDED_PACKAGE NAME="javatests.TestSupport" />
+    <EXCLUDED_PACKAGE NAME="javax.print.DocFlavor" />
+    <EXCLUDED_PACKAGE NAME="javax.security" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="javax.validation.groups" />
+    <EXCLUDED_PACKAGE NAME="jdk.internal" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
+    <EXCLUDED_PACKAGE NAME="jersey.repackaged" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
+    <EXCLUDED_PACKAGE NAME="org.apache.tomcat.jni" />
+    <EXCLUDED_PACKAGE NAME="org.aspectj.lang" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.annotate" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
+    <EXCLUDED_PACKAGE NAME="org.jboss.arquillian.core.api.annotation.Inject" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.asm" />
+    <EXCLUDED_PACKAGE NAME="org.mozilla" />
+    <EXCLUDED_PACKAGE NAME="org.objectweb" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.asm" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.test.util" />
+    <EXCLUDED_PACKAGE NAME="scala.collection" />
+    <EXCLUDED_PACKAGE NAME="sun" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
+    <EXCLUDED_PACKAGE NAME="weblogic.utils" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_SMALL_ICONS_IN_GUTTER" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
+</application>

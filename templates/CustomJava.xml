@@ -1,0 +1,18 @@
+<templateSet group="CustomJava">
+  <template name="test" value="@org.junit.Test&#10;public void $methodname$() {&#10;}" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="methodname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="setup" value="@org.junit.Setup&#10;public void $methodname$() {&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="methodname" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="bean" value="@Bean&#10;public $beanclass$ $method$() {&#10;    return mock($beanclass$.class);&#10;}" description="Spring bean createion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="beanclass" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="decapitalize($beanclass$)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
